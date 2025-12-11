@@ -1,0 +1,9 @@
+| Component       | Technology               |
+| --------------- | ------------------------ |
+| Scraping        | PRAW                     |
+| Storage         | SQLite                   |
+| NLP             | spaCy, regex             |
+| Topic Modeling  | BERTopic                 |
+| Sentiment       | HuggingFace Transformers |
+| Visualization   | Plotly, Streamlit        |
+| Trend Analytics | Statistical z-score      |

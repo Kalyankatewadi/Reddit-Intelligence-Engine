@@ -1,0 +1,2 @@
+nginx
+Scraper → SQLite → NLP Cleaning → BERTopic → Sentiment → Trend Detection → Dashboard

@@ -1,0 +1,4 @@
+bash
+pip install -r requirements.txt
+python run_all.py
+streamlit run dashboard/app.py
